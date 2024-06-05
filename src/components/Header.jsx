@@ -9,7 +9,7 @@ const Header = () => {
           alt=""
           className="w-10 h-8"
         />
-        <div className="text-3xl">Crest</div>
+        <div className="text-3xl">CleverBooks</div>
       </div>
       <div>
         <ul className="flex gap-10 list">
